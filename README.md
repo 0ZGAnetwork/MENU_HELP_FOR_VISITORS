@@ -1,4 +1,4 @@
-image:
+vimage:
 ## 🌐 Choose Language:
 - [🇬🇧 English](#english)
 - [🇵🇱 Polski](#polski)
@@ -13,11 +13,11 @@ Welcome to my open source projects repository! Here you can find the projects I 
 
 ### 🚀 Projects
 
-- [EmbeddedRoboticProjects](https://github.com/0ZGAnetwork/EmbeddedRoboticProjects) Python + Raspberry Pi Pico 2W
+- [EmbeddedRoboticProjects](https://github.com/0ZGAnetwork/EmbeddedRoboticProjects)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 - [WineQuality](https://github.com/0ZGAnetwork/WineQualityProject)  Matlab
 - [Linear Dynamic System](https://github.com/0ZGAnetwork/LinearDynamicalSProject)  Matlab
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
 
 

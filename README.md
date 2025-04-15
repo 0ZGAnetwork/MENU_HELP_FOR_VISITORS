@@ -36,8 +36,6 @@ MIT – wszystkie projekty są dostępne na licencji MIT.
 
 Willkommen in meinem Repository für Open-Source-Projekte! Hier findest du die Projekte, die ich für die Gemeinschaft entwickle und teile.
 
-### 🚀 Projekte
-
 [Projects](#projects)
 ### 🧾 Lizenz
 

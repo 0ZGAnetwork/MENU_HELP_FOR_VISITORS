@@ -29,10 +29,9 @@ Witaj w moim repozytorium projektów open source! Tutaj znajdziesz projekty, kt�
 
 ### 🚀 Projekty
 
-- [🤖 Robot Balansujący](robot-balansujacy)
-- [📊 IoT Logger](iot-logger)
-- [🧠 Sieć Neuronowa do Klasyfikacji Wina](wine-mlp)
-- [🛠️ MiniTools](minitools)
+- [EmbeddedRoboticProjects](https://github.com/0ZGAnetwork/EmbeddedRoboticProjects) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="30" height="30"/>
+- [WineQuality](https://github.com/0ZGAnetwork/WineQualityProject) <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="30" height="30" alt="MATLAB Logo"/>
+- [Linear Dynamic System](https://github.com/0ZGAnetwork/LinearDynamicalSProject) <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="30" height="30" alt="MATLAB Logo"/>
 
 ### 🧾 Licencja
 
@@ -46,10 +45,9 @@ Willkommen in meinem Repository für Open-Source-Projekte! Hier findest du die P
 
 ### 🚀 Projekte
 
-- [🤖 Balancierender Roboter](robot-balancing)
-- [📊 IoT Logger](iot-logger)
-- [🧠 Neuronales Netzwerk zur Weinklassifizierung](wine-mlp)
-- [🛠️ MiniTools](minitools)
+- [EmbeddedRoboticProjects](https://github.com/0ZGAnetwork/EmbeddedRoboticProjects) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="30" height="30"/>
+- [WineQuality](https://github.com/0ZGAnetwork/WineQualityProject) <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="30" height="30" alt="MATLAB Logo"/>
+- [Linear Dynamic System](https://github.com/0ZGAnetwork/LinearDynamicalSProject) <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="30" height="30" alt="MATLAB Logo"/>
 
 ### 🧾 Lizenz
 
@@ -63,10 +61,9 @@ MIT – alle Projekte sind unter der MIT-Lizenz verfügbar.
 
 ### 🚀 Проекты
 
-- [🤖 Робот-балансир](robot-balancing)
-- [📊 IoT Logger](iot-logger)
-- [🧠 Нейронная сеть для классификации вина](wine-mlp)
-- [🛠️ MiniTools](minitools)
+- [EmbeddedRoboticProjects](https://github.com/0ZGAnetwork/EmbeddedRoboticProjects) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="30" height="30"/>
+- [WineQuality](https://github.com/0ZGAnetwork/WineQualityProject) <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="30" height="30" alt="MATLAB Logo"/>
+- [Linear Dynamic System](https://github.com/0ZGAnetwork/LinearDynamicalSProject) <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="30" height="30" alt="MATLAB Logo"/>
 
 ### 🧾 Лицензия
 

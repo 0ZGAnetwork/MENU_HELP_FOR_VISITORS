@@ -13,7 +13,7 @@ Welcome to my open source projects repository! Here you can find the projects I 
 
 ### 🚀 Projects
 - [EmbeddedRoboticProjects](https://github.com/0ZGAnetwork/EmbeddedRoboticProjects) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="30" height="30"/>
-- [WineQuality](https://github.com/0ZGAnetwork/WineQualityProject)  Matlab
+- [WineQuality](https://github.com/0ZGAnetwork/WineQualityProject)  Matlab <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MATLAB Logo"/>
 - [Linear Dynamic System](https://github.com/0ZGAnetwork/LinearDynamicalSProject)  Matlab
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>
 

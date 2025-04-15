@@ -1,7 +1,7 @@
 vimage:
 ## 🌐 Choose Language:
 - [🇬🇧 English](#english) <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_Kingdom.svg" width="20" height="10" alt="United Kingdom Flag"/>
-- [🇵🇱 Polski](#polski) <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" width="10" height="20" alt="Polska Flag"/>
+- [🇵🇱 Polski](#polski) <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg" width="20" height="10" alt="Polska Flag"/>
 - [🇩🇪 Deutsch](#deutsch) <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" width="20" height="10" alt="Germany Flag"/>
 - [🇷🇺 Русский](#russkiy) <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg" width="20" height="10" alt="Russia Flag"/>
 

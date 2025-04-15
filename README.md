@@ -17,6 +17,10 @@ Welcome to my open source projects repository! Here you can find the projects I 
 - [WineQuality](https://github.com/0ZGAnetwork/WineQualityProject)  Matlab
 - [Linear Dynamic System](https://github.com/0ZGAnetwork/LinearDynamicalSProject)  Matlab
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+
+
 ### 🧾 License
 
 MIT – all projects are available under the MIT license.

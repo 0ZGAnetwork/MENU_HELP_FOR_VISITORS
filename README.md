@@ -13,9 +13,9 @@ Welcome to my open source projects repository! Here you can find the projects I 
 
 ### 🚀 Projects
 
-- [EmbeddedRoboticProjects](https://github.com/0ZGAnetwork/EmbeddedRoboticProjects)
-- [WineQuality](https://github.com/0ZGAnetwork/WineQualityProject)
-- [Linear Dynamic System](https://github.com/0ZGAnetwork/LinearDynamicalSProject)
+- [EmbeddedRoboticProjects](https://github.com/0ZGAnetwork/EmbeddedRoboticProjects) Python + Raspberry Pi Pico 2W
+- [WineQuality](https://github.com/0ZGAnetwork/WineQualityProject)  Matlab
+- [Linear Dynamic System](https://github.com/0ZGAnetwork/LinearDynamicalSProject)  Matlab
 
 ### 🧾 License
 

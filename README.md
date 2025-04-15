@@ -6,16 +6,16 @@ vimage:
 - [🇷🇺 Русский](#russkiy)
 
 ---
-
-## <a name="english"></a> 🇬🇧 English
-
-Welcome to my open source projects repository! Here you can find the projects I develop and share with the community.
-
 ### 🚀 Projects
 
 - [EmbeddedRoboticProjects](https://github.com/0ZGAnetwork/EmbeddedRoboticProjects) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="30" height="30"/>
 - [WineQuality](https://github.com/0ZGAnetwork/WineQualityProject) <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="30" height="30" alt="MATLAB Logo"/>
 - [Linear Dynamic System](https://github.com/0ZGAnetwork/LinearDynamicalSProject) <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="30" height="30" alt="MATLAB Logo"/>
+
+
+## <a name="english"></a> 🇬🇧 English
+
+Welcome to my open source projects repository! Here you can find the projects I develop and share with the community.
 
 ### 🧾 License
 

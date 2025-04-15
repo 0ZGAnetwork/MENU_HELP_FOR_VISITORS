@@ -1,12 +1,10 @@
-# META-README
-ABOUT THE REPO
-
+image:
 ## 🌐 Choose Language:
 - [🇬🇧 English](#english)
 - [🇵🇱 Polski](#polski)
 - [🇩🇪 Deutsch](#deutsch)
 - [🇷🇺 Русский](#russkiy)
-- 
+
 ---
 
 ## <a name="english"></a> 🇬🇧 English

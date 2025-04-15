@@ -13,10 +13,9 @@ Welcome to my open source projects repository! Here you can find the projects I 
 
 ### 🚀 Projects
 
-- [🤖 Balancing Robot](robot-balancing)
-- [📊 IoT Logger](iot-logger)
-- [🧠 Neural Network for Wine Classification](wine-mlp)
-- [🛠️ MiniTools](minitools)
+- [EmbeddedRoboticProjects](https://github.com/0ZGAnetwork/EmbeddedRoboticProjects)
+- [WineQuality](https://github.com/0ZGAnetwork/WineQualityProject)
+- [Linear Dynamic System](https://github.com/0ZGAnetwork/LinearDynamicalSProject)
 
 ### 🧾 License
 

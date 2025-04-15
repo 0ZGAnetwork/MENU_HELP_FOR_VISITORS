@@ -12,7 +12,7 @@ vimage:
 Welcome to my open source projects repository! Here you can find the projects I develop and share with the community.
 
 ### 🚀 Projects
-- [EmbeddedRoboticProjects](https://github.com/0ZGAnetwork/EmbeddedRoboticProjects) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
+- [EmbeddedRoboticProjects](https://github.com/0ZGAnetwork/EmbeddedRoboticProjects) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="30" height="30"/>
 - [WineQuality](https://github.com/0ZGAnetwork/WineQualityProject)  Matlab
 - [Linear Dynamic System](https://github.com/0ZGAnetwork/LinearDynamicalSProject)  Matlab
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/>

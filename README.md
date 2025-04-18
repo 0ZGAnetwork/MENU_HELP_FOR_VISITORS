@@ -16,8 +16,6 @@ image:
 Welcome to my open source projects repository! Here you can find the projects I develop and share with the community.
 
 [Projects](#projects)
-### 🧾 License
-MIT – all projects are available under the MIT license.
 
 ---
 
@@ -26,9 +24,6 @@ MIT – all projects are available under the MIT license.
 Witaj w moim repozytorium projektów open source! Tutaj znajdziesz projekty, które tworzę i rozwijam w ramach open source.
 
 [Projects](#projects)
-### 🧾 Licencja
-
-MIT – wszystkie projekty są dostępne na licencji MIT.
 
 ---
 
@@ -37,9 +32,6 @@ MIT – wszystkie projekty są dostępne na licencji MIT.
 Willkommen in meinem Repository für Open-Source-Projekte! Hier findest du die Projekte, die ich für die Gemeinschaft entwickle und teile.
 
 [Projects](#projects)
-### 🧾 Lizenz
-
-MIT – alle Projekte sind unter der MIT-Lizenz verfügbar.
 
 ---
 
